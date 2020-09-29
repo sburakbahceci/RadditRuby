@@ -24,6 +24,7 @@ gem 'jbuilder', '~> 2.7'
 gem 'devise', '~> 4.2'
 gem 'bootstrap-sass', '~> 3.4', '>= 3.4.1'
 gem 'acts_as_votable', '~> 0.10.0'
+gem 'simple_form', '~> 5.0', '>= 5.0.2'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
